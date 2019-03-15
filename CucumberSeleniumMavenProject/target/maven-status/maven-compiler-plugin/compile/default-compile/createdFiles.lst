@@ -1,0 +1,6 @@
+model\CustomerDetails.class
+pageObjects\LoginPage.class
+utilityLiberaryPack\BrowserLib.class
+customException\UnsupportedBrowserException.class
+configPack\ConfigFileReader.class
+utilityLiberaryPack\PropertyFileUnitility.class
